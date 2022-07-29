@@ -2,18 +2,20 @@
   max-width: 100%;
   width: 1024px;
   font-size: 14px;
+  margin: 0 auto;
 }
 
 .fLists {
   width: 100%;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   margin-bottom: 50px;
 }
 
 .fList {
   list-style: none;
   padding: 0;
+ 
 }
 
 .fListItem {
