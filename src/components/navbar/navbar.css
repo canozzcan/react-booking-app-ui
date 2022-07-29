@@ -17,6 +17,8 @@
 .logo{
     font-weight: 700;
     font-size: 25px;
+    color: white;
+    text-decoration: none;
 }
 
 .navButton{
